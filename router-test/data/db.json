@@ -1,0 +1,7 @@
+{
+    "jobs":[
+        { "title": "Intern", "id": 1, "details": "An intern." },
+        { "title": "Part Time", "id": 2, "details": "A part time worker." },
+        { "title": "Full Time", "id": 3, "details": "A full time worker." }
+    ]
+}
